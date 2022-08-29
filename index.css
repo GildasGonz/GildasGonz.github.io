@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Abster";
-    src: url("../assets/abster.otf") format("otf");
+    src: url("./assets/abster.otf") format("otf");
 }
 
 body {
