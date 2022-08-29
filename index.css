@@ -1,3 +1,22 @@
+@font-face {
+    font-family: "Abster";
+    src: url("../assets/abster.otf") format("otf");
+}
+
 body {
-    background-color: ghostwhite;
+    background-color: whitesmoke;
+}
+
+header {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Abster";
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
 }
